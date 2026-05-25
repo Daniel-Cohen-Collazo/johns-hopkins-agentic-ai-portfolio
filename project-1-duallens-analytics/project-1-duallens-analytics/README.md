@@ -28,4 +28,4 @@ The goal is to create a more complete picture of organizational potential by eva
 
 ## File included
 
-- `DualLens_Analytics_filled.html` — exported project deliverable
+- `Daniel_Cohen-Collazo_DualLens_Analytics` — exported project deliverable
