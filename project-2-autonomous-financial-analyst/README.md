@@ -37,6 +37,6 @@ The system is designed to reduce the time required to gather, compare, and synth
 - Financial data analysis
 - Business-focused AI workflow design
 
-## File included
+## Deliverable included
 
-- `Daniel_Cohen_Collazo_Autonomous_Financial_Analyst.html` — exported project deliverable
+- `Daniel_Cohen_Collazo_Autonomous_Financial_Analyst.html` — exported project deliverable from the Johns Hopkins Agentic AI Certificate Program
